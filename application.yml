@@ -6,7 +6,7 @@ spring:
 spring:
   profiles: dev  #开发环境
   application:
-    name: microservicecloud-config-zpark-dev000
+    name: microservicecloud-config-zpark-dev011
 ---
 spring:
   profiles: test  #测试环境
